@@ -28,7 +28,8 @@ This code challenge consist on 3 different exercises with below requirements:
   ii. “)((()))()()”
   iii. “((()()()))(()”
   
-3. sha256encoding
+3. sha256encoding:
+
   Create the code for a lambda function (or cloud-based equivalent) that returns a sha
   256 hash for a given string if and only if said string consists of at least 8 characters, at
   least one number, and at least one special character. Include any yaml or json files
